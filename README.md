@@ -74,7 +74,9 @@
   ![](./images/nodered-mqtt-edit.png)
   
   The server should be: ```YOUR-ORG-ID.messaging.internetofthings.ibmcloud.com```
+  
   The port should be:   ```8883``` for TLS
+  
   The client id should: ```d:<your-org-id>:<your-device-type>:<your-device>```
 
 1. Click on Inject node to simulate an event.
