@@ -1,0 +1,7 @@
+{
+  "org": "63mrqf",
+  "id": "mymqttdevice",
+  "type": "mqttdevice",
+  "auth-method": "token",
+  "auth-token": "Vpwc*Q4Pf6wlbdqfJ!"
+}

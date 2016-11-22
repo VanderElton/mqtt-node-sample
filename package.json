@@ -1,0 +1,14 @@
+{
+  "name": "mqtt",
+  "version": "1.0.0",
+  "description": "MQTT Sample",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "dependencies": {
+    "express": "^4.13.4",
+    "ibmiotf": "^0.2.25",
+    "mqtt": "^2.1.3"
+  }
+}
